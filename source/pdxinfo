@@ -1,7 +1,7 @@
-name=360 Luna-Dev
+name=360 Luna
 author=Foster Douglas
 description=View around the moon.
 bundleID=com.FosterDouglas.360-luna
 version=0.0.1
-buildNumber=100206
-imagePath=system/images/dev
+buildNumber=100208
+imagePath=system/images
